@@ -14,26 +14,10 @@
 }
 
 body {
-  background-color: var(--very-dark-blue);
+  font-family: 'Overpass', sans-serif;
+  font-size: 15px;
 }
 
-.rating-card {
-  background-color: var(--dark-blue);
-  width: 500px;
-  height: auto;
-}
-
-.icon-star {
-  width: 35px;
-  height: 35px;
-  background-color: var(--medium-grey);
-  border-radius: 50%;
-  background-image: url(./images/icon-star.svg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 15px;
-}
-
-h1 {
-  color: var(--white);
+botton {
+  font-family: inherit;
 }
